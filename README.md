@@ -1,8 +1,8 @@
-👋 About Me
-Hi, I’m Felipe Teixeira Duarte, an engineer specializing in offshore and coastal environments, with a passion for marine renewable energies (MRE), data analytics, optimization algorithms, and numerical modeling.
+👋 
+Hi, I’m Felipe Teixeira Duarte, a Civil/Environmental engineer specializing in offshore and coastal environments, with a passion for marine renewable energies (MRE), data analytics, optimization algorithms, and numerical modeling.
 
 🌊 What I Do
-I am a Ph.D. candidate in Hydraulics, Water Resources, and Environment at the Faculty of Engineering, University of Porto. My research focuses on the optimization of wave energy converter (WEC) farms using evolutionary algorithms, numerical modeling (e.g., SWAN, SWASH, OpenFOAM), and environmental assessments.
+I am a Ph.D. candidate in Hydraulics, Water Resources, and Environment at the Faculty of Engineering, University of Porto. My research focuses on optimizing wave energy converter (WEC) farms using evolutionary algorithms, numerical modeling (e.g., SWAN, SWASH, OpenFOAM), and environmental assessments.
 
 🤖 Technical Interests
 
@@ -15,8 +15,9 @@ Data analytics and database management with Python and MATLAB.
 Proficiency in SWAN, SWASH, Delft3D, OpenFOAM, and SNL-SWAN.
 Advanced data analysis and optimization techniques.
 Expertise in environmental impact assessments and hydromorphodynamic modeling.
+
 🚀 Current Goals
-I’m currently exploring multi-objective optimization for hybrid offshore energy farms and investigating their synergies with coastal protection strategies.
+I’m exploring multi-objective optimization for hybrid offshore energy farms and investigating their synergies with coastal protection strategies.
 
 📫 How to reach me www.linkedin.com/in/felipe-teixeira-duarte
 
